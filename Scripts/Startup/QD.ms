@@ -1,0 +1,1 @@
+try(fileIn ((getDir #scripts)+"\\Cool_Tools\\Akoo_MAX.mse"))catch()

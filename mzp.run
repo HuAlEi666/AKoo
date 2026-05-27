@@ -1,0 +1,5 @@
+name "°¢¿á±¾Èº×îÖÕ°æ"
+treeCopy Scripts to $max
+run "$scripts/Cool_Tools/Akoo_MAX.mse"
+drop "$scripts/Cool_Tools/Akoo_MAX.mse"
+clear temp 
